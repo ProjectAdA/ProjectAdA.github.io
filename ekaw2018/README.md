@@ -12,3 +12,6 @@ This screenshot presents the main Advene interface, with
 - on the right of the player, the checker component that displays annotations that are not validating constraints
 
 [![Screenshot of Advene display project data]({{ site.url }}/assets/advene-company_men-ada_project.png)]({{ site.url }}/assets/advene-company_men-ada_project.png)
+
+
+[![Screencast of Advene display project data]({{ site.url }}/assets/screencast.mp4)]({{ site.url }}/assets/screencast.mp4)
