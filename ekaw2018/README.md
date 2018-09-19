@@ -14,4 +14,4 @@ This screenshot presents the main Advene interface, with
 [![Screenshot of Advene display project data]({{ site.url }}/assets/advene-company_men-ada_project.png)]({{ site.url }}/assets/advene-company_men-ada_project.png)
 
 
-[![Screencast of Advene display project data]({{ site.url }}/assets/screencast.mp4)]({{ site.url }}/assets/screencast.mp4)
+[![Screencast of Advene]({{ site.url }}/assets/screencast.mp4)]({{ site.url }}/assets/screencast.mp4)
