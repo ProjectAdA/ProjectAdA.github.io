@@ -1,5 +1,34 @@
-theme: jekyll-theme-midnight
-title: AdA Project development resources
-description: This site provides public material from the AdA project
-show_downloads: false
-show_github: false
+theme: jekyll-theme-minimal
+title: "AdA Project"
+description: "Research group “Audio-visual rhetorics of affect” - FU Berlin + HPI Potsdam"
+
+navigation:
+  - title: "Home"
+    url: /    
+  - title: "About the Project"
+    url: /about/
+  - title: "AdA Filmontology"
+    url: /ontology/
+  - title: "Corpus Metadata"
+    url: /corpus/
+  - title: "Film-Analytical Annotations"
+    url: /annotations/
+  - title: "Publications"
+    url: /publications/
+  - title: "Quick Links"
+    subitems: 
+      - title: "- OntoViz"
+        url: http://ada.filmontology.org/ontoviz/    
+      - title: "- Corpus Overview"
+        url: http://ada.filmontology.org/corpus/    
+      - title: "- Annotation Explorer"
+        url: http://ada.filmontology.org/explorer/    
+      - title: "- GitHub Repository"
+        url: https://github.com/ProjectAdA/public    
+      - title: "- AdA @ FU Berlin"
+        url: https://www.ada.cinepoetics.fu-berlin.de/en/index.html    
+
+markdown: kramdown
+
+author:
+  name: Henning Agt-Rickauer
