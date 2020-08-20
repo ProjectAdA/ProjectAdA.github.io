@@ -5,7 +5,7 @@
 
 The research work within the project resulted in the following publications:
 
-**AdA Filmontology – a machine-readable Film Analysis Vocabulary for Video Annotation**. Jan-Hendrik Bakels, Thomas Scherer, Jasper Stratil, Henning Agt-Rickauer. [Digital Humanities Conference 2020](https://dh2020.adho.org/) (DH2020). Ottawa, Canada, July 22-24, 2020. [[pdf]](dh2020.pdf)
+**AdA Filmontology – a machine-readable Film Analysis Vocabulary for Video Annotation**. Jan-Hendrik Bakels, Thomas Scherer, Jasper Stratil, Henning Agt-Rickauer. [Digital Humanities Conference 2020](https://dh2020.adho.org/) (DH2020). Ottawa, Canada, July 22-24, 2020. [[pdf]](dh2020.pdf) [[link]](https://dh2020.adho.org/wp-content/uploads/2020/07/488_AdAFilmontologyamachinereadableFilmAnalysisVocabularyforVideoAnnotation.html)
 
 **Standardization and Automation of Audiovisual Annotations**. Henning Agt-Rickauer, Christian Hentschel. Panel "Between Data Mining and Human Experience – Digital Approaches to Film, Television and Video Game Analysis". [Digital Humanities Conference 2019](https://dh2019.adho.org/) (DH2019). Utrecht, Netherlands, July 9-12, 2019. [[pdf]](dh2019.pdf)
 
