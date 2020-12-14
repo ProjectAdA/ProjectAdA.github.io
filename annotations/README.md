@@ -49,7 +49,7 @@ We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer
 
 ### Download
 
-All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format. Currently, we provide annotations for the following movies:
+All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format (ttl). Currently, we provide annotations for the following movies:
 
 | Movie | # Annotations |
 |-------|---------------|
@@ -79,6 +79,3 @@ All annotation datasets are available for download in our [GitHub repository](ht
 | The Company Men | 24285 |
 | **Total** | **92053** |
 
-[comment]: <> (Scene Segmentation)
-
-[comment]: <> (Annotation  Querys / SPARQL)
