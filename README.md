@@ -11,6 +11,3 @@ On this website we publish and describe all technical results of the project dev
 * Dec 4, 2020: <a href="http://ada.filmontology.org/explorer/" target="_blank">Annotation Explorer v1.0</a> released
 * Nov 2, 2020: New <a href="https://github.com/ProjectAdA/public" target="_blank">annotation datasets</a> published
 * Jun 22, 2020: Revised website goes online
-
-![HPI Logo](/images/hpi.png)![FU Logo](/images/fu.png)![BMBF Logo](/images/bmbf.png)
-
