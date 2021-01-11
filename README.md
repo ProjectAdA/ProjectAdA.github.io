@@ -12,8 +12,5 @@ On this website we publish and describe all technical results of the project dev
 * Nov 2, 2020: New <a href="https://github.com/ProjectAdA/public" target="_blank">annotation datasets</a> published
 * Jun 22, 2020: Revised website goes online
 
-<br>
-<br>
-
 ![HPI Logo](/images/hpi.png)![FU Logo](/images/fu.png)![BMBF Logo](/images/bmbf.png)
 
