@@ -27,6 +27,8 @@ navigation:
         url: https://github.com/ProjectAdA/public    
       - title: "- AdA @ FU Berlin"
         url: https://www.ada.cinepoetics.fu-berlin.de/en/index.html    
+      - title: "- Advene Website"
+        url: https://www.advene.org/
 
 markdown: kramdown
 
