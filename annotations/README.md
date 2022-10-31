@@ -49,7 +49,7 @@ We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer
 
 ### Download
 
-All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format (ttl). Currently, we provide annotations for the following movies:
+All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as either RDF export in Turtle format (ttl), or <a href="https://github.com/ProjectAdA/public/tree/master/advene">.azp packages</a>that can be visualized using <a href="https://www.advene.org/">Advene</a>. Currently, we provide annotations for the following movies:
 
 | Movie | # Annotations |
 |-------|---------------|
