@@ -19,11 +19,11 @@ The datasets created in the AdA project consist of thousands of annotations that
 
 For example, the following information is available to characterize camera movement in minute 41 of the feature film "The Company Men":
 
-| Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
-| Begin timecode | 00:41:29.900 | 
-| End  timecode | 00:41:50.620 | 
-| Annotation Type | [Camera Movement Type](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/CameraMovementType)|
-| Annotation Value | [tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
+| Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003](https://ada.cinepoetics.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003.html) |
+| Begin timecode | 00:41:29.900 |
+| End  timecode | 00:41:50.620 |
+| Annotation Type | [Camera Movement Type](https://ada.cinepoetics.org/resource/2021/05/19/AnnotationType/CameraMovementType.html)|
+| Annotation Value | [tracking shot](https://ada.cinepoetics.org/resource/2021/05/19/AnnotationValue/CameraMovementType_tracking_shot.html)|
 | Author | anton |
 | Date | 2018-05-04 22:10:22 |
 
@@ -38,18 +38,18 @@ Our annotations are encoded using the latest [W3C Web Annotation Data Model](htt
 
 All annotations are published online in our triplestore. The annotations can be accessed through their URIs. Here are some examples:
 
-| The Company Men | Annotation with one predefined value | Timecode 00:41:29-00:41:50 | [Camera Movement Type: tracking shot](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
-| The Company Men | Annotation with evolving values | Timecode 00:41:29-00:41:50 | [Camera Angle Canted: level [TO] tilt right](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63f0be-717f-11e9-99b8-0242ac130003) |
-| Inside Job | Annotation with a text value | Timecode 00:01:05-00:01:13 | [Dialogue transcript](http://ada.filmontology.org/resource/media/1efe8238d70064653f065750f9b92e89505fcb16fa8bd5cf4b8c95b82dcc905c/1c73f962-7180-11e9-9cd5-0242ac130003) |
+| The Company Men | Annotation with one predefined value | Timecode 00:41:29-00:41:50 | [Camera Movement Type: tracking shot](https://ada.cinepoetics.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003.html) |
+| The Company Men | Annotation with evolving values | Timecode 00:41:29-00:41:50 | [Camera Angle Canted: level [TO] tilt right](https://ada.cinepoetics.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63f0be-717f-11e9-99b8-0242ac130003.html) |
+| Inside Job | Annotation with a text value | Timecode 00:01:05-00:01:13 | [Dialogue transcript](https://ada.cinepoetics.org/resource/media/1efe8238d70064653f065750f9b92e89505fcb16fa8bd5cf4b8c95b82dcc905c/1c73f962-7180-11e9-9cd5-0242ac130003.html) |
 
-We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](http://ada.filmontology.org/sparql).
+We also developed the [Annotation Explorer](https://ada.cinepoetics.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](https://ada.cinepoetics.org/sparql/).
 
 [![Image Explorer](annotation_explorer.png "Annotation Explorer Web Application")](annotation_explorer.png)
 *<font size="1">Image: Screenshot of our Annotation Explorer web app with queries of annotations from the film "The Company Men".</font>*
 
 ### Download
 
-All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as either RDF export in Turtle format (ttl), or <a href="https://github.com/ProjectAdA/public/tree/master/advene">.azp packages</a>that can be visualized using <a href="https://www.advene.org/">Advene</a>. Currently, we provide annotations for the following movies:
+All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as either RDF export in Turtle format (ttl), or <a href="https://github.com/ProjectAdA/public/tree/master/advene">.azp packages</a> that can be visualized using <a href="https://www.advene.org/">Advene</a>. Currently, we provide annotations for the following movies:
 
 | Movie | # Annotations |
 |-------|---------------|

@@ -9,6 +9,6 @@ On this website we publish and describe all technical results of the project dev
 
 ### News
 * Oct 31, 2022: The annotation dataset is also available as <a href="https://github.com/ProjectAdA/public/tree/master/advene">.azp packages</a> files that can be visualized with <a href="https://www.advene.org/">Advene</a>
-* Dec 4, 2020: <a href="http://ada.filmontology.org/explorer/" target="_blank">Annotation Explorer v1.0</a> released
+* Dec 4, 2020: <a href="https://ada.cinepoetics.org/explorer/" target="_blank">Annotation Explorer v1.0</a> released
 * Nov 2, 2020: New <a href="https://github.com/ProjectAdA/public" target="_blank">annotation datasets</a> published
 * Jun 22, 2020: Revised website goes online

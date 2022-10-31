@@ -42,11 +42,11 @@ The corpus metadata is encoded as RDF data using existing vocabularies such as t
 
 As for the [ontology](../ontology), metadata for the corpus can be viewed online in our triplestore. The [Corpus](http://ada.filmontology.org/resource/Corpus) resource can be used as an entry point. More examples are listed below:
 
-|Feature Film|The Company Men|[Movie URI](http://ada.filmontology.org/resource/movie/60)|[Media URI](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d)|
-|Documentary|Occupy Wall Street|[Movie URI](http://ada.filmontology.org/resource/movie/74)|[Media URI](http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9)|
-|TV News|Tagesschau 2008-09-08|[Movie URI](http://ada.filmontology.org/resource/movie/135)|[Media URI](http://ada.filmontology.org/resource/media/acf1fece68a0a33b2d5acc6a68c2affd4913296935bf37a21e0444aa386e2f7b)|
+|Feature Film|The Company Men|[Movie URI](http://ada.filmontology.org/resource/movie/60)|[Media URI](https://ada.cinepoetics.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d.html)|
+|Documentary|Occupy Wall Street|[Movie URI](http://ada.filmontology.org/resource/movie/74)|[Media URI](https://ada.cinepoetics.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9)|
+|TV News|Tagesschau 2008-09-08|[Movie URI](http://ada.filmontology.org/resource/movie/135)|[Media URI](https://ada.cinepoetics.org/resource/media/acf1fece68a0a33b2d5acc6a68c2affd4913296935bf37a21e0444aa386e2f7b)|
 
-We also developed a [Corpus Overview Web Application](http://ada.filmontology.org/corpus/) to access the corpus metadata and to download annotation templates for the Advene annotation software.
+We also developed a [Corpus Overview Web Application](https://ada.cinepoetics.org/corpus/) to access the corpus metadata and to download annotation templates for the Advene annotation software.
 
 ### Download
 
