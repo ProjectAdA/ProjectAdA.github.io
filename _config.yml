@@ -17,18 +17,18 @@ navigation:
     url: /publications/
   - title: "Quick Links"
     subitems:
-      - title: "- OntoViz"
-        url: https://ada.cinepoetics.org/ontoviz/
-      - title: "- Corpus Overview"
-        url: https://ada.cinepoetics.org/corpus/
-      - title: "- Annotation Explorer"
-        url: https://ada.cinepoetics.org/explorer/
       - title: "- GitHub Repository"
         url: https://github.com/ProjectAdA/public
       - title: "- AdA @ FU Berlin"
         url: https://www.ada.cinepoetics.fu-berlin.de/en/index.html
       - title: "- Advene Website"
         url: https://www.advene.org/
+      - title: "- OntoViz"
+        url: https://ada.cinepoetics.org/ontoviz/
+      - title: "- Corpus Overview"
+        url: https://ada.cinepoetics.org/corpus/
+      - title: "- Annotation Explorer"
+        url: https://ada.cinepoetics.org/explorer/
 
 markdown: kramdown
 
